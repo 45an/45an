@@ -69,4 +69,4 @@
 <h2 align="center">Check out how my contributions graph gets gobbled up by the snake!🐍</h2>
 <img src="https://raw.githubusercontent.com/45an/45an/output/snake.svg" alt="Snake animation" />
 </div>
-###
+
