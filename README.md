@@ -12,7 +12,7 @@
 
 ###
 <div align="center">
-  <h3>Profile Views</h3>
+  <h2>Profile Views</h2>
   <img src="https://profile-counter.glitch.me/45an/count.svg?"  />
 </div>
 
