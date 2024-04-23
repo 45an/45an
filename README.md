@@ -1,4 +1,7 @@
-<h2 align="left">.NET Developer</h2>
+<img src="https://github.com/45an/45an/assets/114033186/2ac0ec12-3d60-480e-b1de-2b7efaa84354" alt="Beskrivning av bilden" style="width: 100%;">
+
+
+<h2 align="center">.NET Developer</h2>
 
 ###
 
@@ -8,18 +11,22 @@
 </div>
 
 ###
-###
+<div align="center">
+  <h3>Profile Views</h3>
+  <img src="https://profile-counter.glitch.me/45an/count.svg?"  />
+</div>
 
+ ## Dev Stack
 <div align="left">
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
@@ -41,11 +48,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/45an/45an/output/snake.svg" alt="Snake animation" />
-
-
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/45an/count.svg?"  />
-</div>
 
 ###
