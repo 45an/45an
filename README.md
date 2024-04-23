@@ -61,6 +61,7 @@
 
 <br clear="both">
 
+## Check out how my contributions graph gets gobbled up by the snake!🐍
 <img src="https://raw.githubusercontent.com/45an/45an/output/snake.svg" alt="Snake animation" />
 
 ###
